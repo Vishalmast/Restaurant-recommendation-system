@@ -1,0 +1,86 @@
+#container {
+	background: url("john-canelis-0VLn5nrp6hE-unsplash.jpg");
+position: fixed;
+width: 340px;
+height: 220px;
+top: 50%;
+left: 20%;
+border: 3px solid black;
+box-shadow: 1px 1px 3px;
+margin-top: -140px;
+margin-left: -170px;
+opacity: .85;
+}
+#container2 {
+	background: url("john-canelis-0VLn5nrp6hE-unsplash.jpg");
+position: fixed;
+width: 340px;
+height: 295px;
+top: 40%;
+left: 80%;
+border: 3px solid black;
+box-shadow: 1px 1px 3px;
+margin-top: -140px;
+margin-left: -170px;
+opacity: .85;
+}
+body{
+	background: url("jay-wennington-N_Y88TWmGwA-unsplash.jpg");
+	background-size: cover;
+}
+form {
+    margin: 0 auto;
+    margin-top: 20px;
+}
+label {
+	background: transparent;
+    color: #fcd303;
+    display: inline-block;
+    margin-left: 18px;
+    padding-top: 10px;
+    font-size: 16px;
+}
+input[type=submit] {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+}
+#lower {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+}
+#Sign{
+	color: blue;
+	padding: 3px;
+	margin: 6px;
+}
+p{
+	color:red;
+}
+#heading{
+	text-align: center;
+	color: #f5426c;
+	font-size: 50px;
+}
+
+     .jumbotron {
+      height: 300px;
+      background: url(#) no-repeat ;
+      background-position: 10% 61%;
+      background-size: 110%;
+      margin-bottom: 0;
+      position: all;
+  }
+
+  .jumbotron #vi1{
+        width: 250px;
+        height: 250px;
+        position:absolute;
+        top: -1%;
+        left: 40%;
+    }

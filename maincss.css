@@ -1,0 +1,22 @@
+.a{
+	background-color: #f1f1f1;
+	text-align: center;
+	margin-bottom: 0;
+}
+#b{
+	text-align: right;
+	align-content: right;
+}
+.nav{
+
+}
+body{
+	background: url("jalsa banashankari.jpg");
+}
+
+.carousel-item{
+	transform: translateX(26%);
+}
+.carouselExampleIndicators{
+	transform: translate(50% 50%);
+}

@@ -1,0 +1,86 @@
+#container2 {
+	background: url("john-canelis-0VLn5nrp6hE-unsplash.jpg");
+position: relative;
+width: 1440px;
+height: 540px;
+
+left: 13%;
+border: 3px solid black;
+box-shadow: 20px 20px 3px;
+margin-top: -30px;
+margin-left: -170px;
+margin-bottom: 30px;
+opacity: .90;
+
+}
+
+form {
+    margin: 0 auto;
+    margin-top: 20px;
+}
+label {
+	background: transparent;
+    color: #fcd303;
+    display: inline-block;
+    margin-left: 18px;
+    padding-top: 10px;
+    font-size: 16px;
+}
+input[type=submit] {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+}
+.f{
+  margin-bottom: 22px;
+}
+.f2{
+  margin-bottom: 22px;
+}
+#lower {
+    float: right;
+    margin-right: 20px;
+    margin-top: 20px;
+    width: 80px;
+    height: 30px;
+}
+#upper {
+  margin-left: 60px;
+}
+#Sign{
+	color: blue;
+	padding: -3px;
+	margin: 6px;
+  margin-top: 3px; 
+  padding-top: 2px;
+  padding-bottom: 30px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+}
+p{
+	color:red;
+}
+#heading{
+	text-align: center;
+	color: #f5426c;
+	font-size: 50px;
+}
+
+     .jumbotron {
+      height: 300px;
+      background: url(#) no-repeat ;
+      background-position: 10% 61%;
+      background-size: 110%;
+      margin-bottom: 0;
+      position: all;
+  }
+
+  .jumbotron #vi1{
+        width: 250px;
+        height: 250px;
+        position:absolute;
+        top: -1%;
+        left: 40%;
+    }

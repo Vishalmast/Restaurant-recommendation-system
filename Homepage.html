@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Restro Sign up</title>
+	<h1 id = "heading">
+		
+	</h1>
+	<div class="jumbotron">
+  <div class="container text-center">     
+    <img id="vi1" src="logo.png">
+    
+  </div>
+</div>
+</head>
+<body>
+	<div id = "container">
+		<h2 id ="Sign">Sign in</h2>
+		<form action="restro_project2.php" method="POST">
+			<label class = "t" for= "email">Email id:</label>
+			<input id = "email" type="text" name="Email_id" size="29" required><br>
+			<label class = "t" for="password">Password:</label>
+			<input type="password" id="password" name="password" size = "20" required>
+			<div id="lower">
+				<input type="submit" value="Login">
+			</div>
+		</form>
+	</div>
+
+	<div id = "container2">
+		<h2 id ="Sign">Sign Up</h2>
+		<form action="restro_project.php" method="POST">
+			<label for="fn">First Name:</label>
+			<input type="text" name="fname" size = "14" required><br>
+			<label for="ln">Last Name:</label>
+			<input type="text" name="Lname" size="14"><br>
+			<label for ="locn">Location:</label>
+			<input id ="locn" type="text" name="Location"><br>
+			<label for= "email">Email id:</label>
+			<input id = "email" type="text" name="Email_id2"  size="29" required><br>
+			<label for="password">Password:</label>
+			<input type="password" id="password" name="password2" required size = "20">
+			<div id="lower">
+				<input type="submit" value="Sign up">
+			</div>
+		</form>
+	</div>
+</body>
+</html>
